@@ -1,29 +1,22 @@
-# eGov Access App
-
-![Project Logo](project_logo.png)
+# EGOV App
+<img src="https://github.com/pranjal-yadav05/EGOV/blob/main/logo_egov.png" data-canonical-src="https://github.com/pranjal-yadav05/EGOV/blob/main/logo_egov.png" width="100" height="100" />
 
 Welcome to the eGov Access App, a solution designed to help students access their university's eGov portal with ease. This app not only simplifies access but also provides additional features like saving and managing profiles for quick reference.
 
 ## Table of Contents
 
 - [About](#about)
-- [Demo](#demo)
 - [Features](#features)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgments](#acknowledgments)
 
 ## About
 
 The eGov Access App is developed to assist students who face challenges accessing their university's eGov portal. This app streamlines the login process and offers the convenience of saving and managing profiles for quick access to academic information.
-
-## Demo
-
-You can find a live demo of the eGov Access App [here](demo-link).
 
 ## Features
 
@@ -67,12 +60,6 @@ We welcome contributions from the community to enhance the eGov Access App. To c
 2. Create a new branch for your feature or bug fix.
 3. Commit your changes.
 4. Push to your fork and submit a pull request.
-
-Please follow our [code of conduct](CODE_OF_CONDUCT.md) and ensure your contributions adhere to our [style guide](STYLE_GUIDE.md).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
