@@ -1,4 +1,4 @@
-# EGOV App
+# eGOV App
 <img src="https://github.com/pranjal-yadav05/EGOV/blob/main/logo_egov.png" data-canonical-src="https://github.com/pranjal-yadav05/EGOV/blob/main/logo_egov.png" width="100" height="100" />
 
 Welcome to the eGov Access App, a solution designed to help students access their university's eGov portal with ease. This app not only simplifies access but also provides additional features like saving and managing profiles for quick reference.
