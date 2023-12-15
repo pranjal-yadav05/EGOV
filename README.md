@@ -16,7 +16,7 @@ Welcome to the eGov Access App, a solution designed to help students access thei
 
 ## About
 
-The eGov Access App is developed to assist students who face challenges accessing their university's eGov portal. This app streamlines the login process and offers the convenience of saving and managing profiles for quick access to academic information.
+The eGov Access App is developed to help fellow students who face challenges accessing Dharmsinh Desai University's eGov portal. This app streamlines the login process and offers the convenience of saving and managing profiles for quick access to academic information.
 
 ## Features
 
@@ -36,25 +36,23 @@ Before you begin, ensure you have met the following requirements:
 
 ### Installation
 
-Follow these steps to install and run the eGov Access App:
+Follow these steps to install and run the eGov App:
 
-1. Clone the repository: `git clone https://github.com/your-username/egov-access-app.git`
-2. Open the project in Android Studio.
-3. Configure any API keys or environment variables (if applicable).
-4. Build and run the project on an emulator or device.
+1. Download the egov.apk
+2. Install it using any package installer on your android device
 
 ## Usage
 
 Using the eGov Access App is simple:
 
 1. Launch the app.
-2. Log in to your university's eGov portal using your credentials.
+2. Log in to university's eGov portal using your credentials.
 3. Save profiles of yourself and your friends for quick access.
 4. Copy and use profile IDs and DOBs with ease.
 
 ## Contributing
 
-We welcome contributions from the community to enhance the eGov Access App. To contribute, follow these steps:
+We welcome contributions from the community to enhance the eGov App. To contribute, follow these steps:
 
 1. Fork the project.
 2. Create a new branch for your feature or bug fix.
